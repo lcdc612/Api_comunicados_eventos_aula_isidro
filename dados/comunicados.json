@@ -1,18 +1,20 @@
-{
-    "evento": "mentoria alvaro"
-    "data": "02/04/2026
-    "hora": "19:00"
-    "local": "1o andar"
-},
-{
-    "evento": "vibe code isidro"
-    "data": "10/04/2026
-    "hora": "15:00"
-    "local": "3o andar"
-},
-{
-    "evento": "consultoria estilo"
-    "data": "15/04/2026
-    "hora": "14:00"
-    "local": "6o andar"
-}
+[
+    {
+        "evento": "mentoria alvaro",
+        "data": "02/04/2026",
+        "hora": "19:00",
+        "local": "1o andar"
+    },
+    {
+        "evento": "vibe code isidro",
+        "data": "10/04/2026",
+        "hora": "15:00",
+        "local": "3o andar"
+    },
+    {
+        "evento": "consultoria estilo",
+        "data": "15/04/2026",
+        "hora": "14:00",
+        "local": "6o andar"
+    }
+]
